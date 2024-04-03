@@ -1,0 +1,11 @@
+ * { margin: 0; padding: 0; box-sizing: border-box; } 
+ body { font-family: Arial, sans-serif; background-color: #f8f8f8; padding: 10px; } 
+    header { background-color: #333; color: white; text-align: center; padding: 10px; }  
+        nav { text-align: center; } nav ul { list-style-type: none; padding: 0; } 
+        nav ul li { display: inline-block; margin-right: 10px; } 
+        nav ul li a { color: white; text-decoration: none; }  
+    main { padding: 10px; } section { margin-bottom: 20px; } 
+        .app-img, .Imagem { max-width: 100%; height: auto; } 
+        button { display: block; width: 100%; padding: 10px; margin-bottom: 10px; background-color: #333; color: white; border: none; border-radius: 5px; }
+        h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13 { margin-bottom: 10px; } 
+    p { margin-bottom: 10px; }
